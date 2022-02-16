@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_greetings_project/static/css/main.2d18d0e4.css",
+    "main.js": "/react_greetings_project/static/js/main.04a001cc.js",
+    "index.html": "/react_greetings_project/index.html",
+    "main.2d18d0e4.css.map": "/react_greetings_project/static/css/main.2d18d0e4.css.map",
+    "main.04a001cc.js.map": "/react_greetings_project/static/js/main.04a001cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d18d0e4.css",
+    "static/js/main.04a001cc.js"
+  ]
+}
